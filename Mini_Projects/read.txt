@@ -1,0 +1,17 @@
+step1: get input from th user.
+step2: verifi thad th ecard has 16 degit of number.
+step3: seprate the last one number in card .
+       (eg: 12345  '5' is th last number).
+step4: seperate remaining 14 number with one intervel.
+step5: now you got 8 number.
+step6: multiple this eight number by 2
+step7: seperate two degit number into one degit
+step8: and add all the seperated number into remaining number
+step9: if you got total number in three degit the devide into two seperate part 
+       and minus them 
+step10: if the last number and the resulted number is same then the card is valid
+
+
+program notes:
+
+'card_no_orgi' is the variable name use to store card detail 
